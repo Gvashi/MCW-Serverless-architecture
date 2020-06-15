@@ -917,11 +917,11 @@ In this task, you will add an Event Grid subscription to the QueuePlateForManual
 
 Then select **Confirm Selection**.
    
-   ![](media/23sa.png)
+ ![](media/23sa.png)
     
 3. Review all the values and select **Create**.
 
-   ![](media/24sa.png)
+ ![](media/24sa.png)
 
 ### Task 6: Add an Azure Cosmos DB output to the QueuePlateForManualCheckup function
 
@@ -929,7 +929,7 @@ In this task, you will add an Azure Cosmos DB output binding to the QueuePlateFo
 
 1. Select the QueuePlateForManualCheckup function, then select **Integration** under **Developer** pane and click on **+Add Output**.
 
-   ![](media/sa34.png)
+  ![](media/sa34.png)
 
 2. Select **+ New Output** then select **Azure Cosmos DB** from the list of outputs, then choose **Select**.
 
