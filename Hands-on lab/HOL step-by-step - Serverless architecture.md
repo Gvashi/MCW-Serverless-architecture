@@ -770,7 +770,7 @@ In this task, you will create a new Node.js function triggered by Event Grid and
 
 8. On saving the code, logs window may appear. For now ignore the warning as we will work on it in next exercise.
 
-   ![](media/22sa.png)
+![](media/22sa.png)
 
 ### Task 2: Add an Event Grid subscription to the SavePlateData function
 
@@ -807,11 +807,11 @@ In this task, you will add an Event Grid subscription to the SavePlateData funct
 
 Then select **Confirm Selection**.
    
-   ![](media/15sa.png)
+ ![](media/15sa.png)
     
 13. Review all the values and select **Create**.
 
-   ![](media/16sa.png)
+ ![](media/16sa.png)
 
 ### Task 3: Add an Azure Cosmos DB output to the SavePlateData function
 
@@ -819,11 +819,11 @@ In this task, you will add an Azure Cosmos DB output binding to the SavePlateDat
 
 1. Go to the function app whose name ends with **Events**. Then click on Functions and select the **SavePlateData** function. 
   
-  ![](media/18sa.png)
+![](media/18sa.png)
    
 2. Now click on **Integration** under **Developer** pane and click on **+Add Output**.
 
-  ![](media/21sa.png)
+![](media/21sa.png)
 
 3. Add following configurtaions from the dropdown:
        - Binding Type: **Azure Cosmos DB**
@@ -832,11 +832,11 @@ In this task, you will add an Azure Cosmos DB output binding to the SavePlateDat
        - Collection Name: **Processed**
        - Cosmos DB account connection: Click on **New** and select **Azure Cosmos DB Account**. Leave Database Account on default as it will be set on your Cosmos DB account and then select **OK**.
 
-  ![](media/19sa.png)
+![](media/19sa.png)
 
 4. Now select **OK** to finally add the output.
 
-  ![](media/20sa.png)
+![](media/20sa.png)
 
 ### Task 4: Create function to save manual verification info to Azure Cosmos DB
 
@@ -880,7 +880,7 @@ In this task, you will create a new function triggered by Event Grid and outputs
 
 8. On saving the code, logs window may appear. For now ignore the warning as we will work on it in next exercise.
 
-  ![](media/22sa.png)
+![](media/22sa.png)
 
 ### Task 5: Add an Event Grid subscription to the QueuePlateForManualCheckup function
 
