@@ -884,9 +884,9 @@ In this task, you will create a new function triggered by Event Grid and outputs
 
 In this task, you will add an Event Grid subscription to the QueuePlateForManualCheckup function. This will ensure that the events sent to the Event Grid topic containing the queuePlateForManualCheckup event type are routed to this function.
 
-1. With the QueuePlateForManualCheckup function open, select **Add Event Grid subscription**.
+1. With the QueuePlateForManualCheckup function open, select Integration in the left-hand menu, select Event Grid Trigger (eventGridEvent), then select Create **Event Grid subscription**.
 
-    ![In the QueuePlateForManualCheckup function code window, the Add Event Grid subscription link is selected.](media/manualcheckup-add-eg-sub.png 'QueuePlateForManualCheckup blade')
+  ![](media/EXT5.png) 
 
 2. On the **Create Event Subscription** blade, specify the following configuration options:
 
@@ -915,11 +915,11 @@ In this task, you will add an Event Grid subscription to the QueuePlateForManual
 
 Then select **Confirm Selection**.
    
- ![](media/23sa.png)
+ ![](media/EX3T501.png)
     
 3. Review all the values and select **Create**.
 
- ![](media/24sa.png)
+
 
 ### Task 6: Add an Azure Cosmos DB output to the QueuePlateForManualCheckup function
 
