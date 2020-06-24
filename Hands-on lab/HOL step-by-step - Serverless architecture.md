@@ -878,7 +878,7 @@ In this task, you will create a new function triggered by Event Grid and outputs
 
 8. On saving the code, logs window may appear. For now ignore the warning as we will work on it in next exercise.
 
-![](media/22sa.png)
+![](media/EX3T1.png)
 
 ### Task 5: Add an Event Grid subscription to the QueuePlateForManualCheckup function
 
