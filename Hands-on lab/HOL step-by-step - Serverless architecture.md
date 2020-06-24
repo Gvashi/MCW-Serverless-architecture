@@ -776,9 +776,9 @@ In this task, you will create a new Node.js function triggered by Event Grid and
 
 In this task, you will add an Event Grid subscription to the SavePlateData function. This will ensure that the events sent to the Event Grid topic containing the savePlateData event type are routed to this function.
 
-1. With the SavePlateData function open, select **Add Event Grid subscription**.
-
-    ![In the SavePlateData blade code window, the Add Event Grid subscription link is selected.](media/saveplatedata-add-eg-sub.png 'SavePlateData blade')
+1. With the SavePlateData function open, select Integration in the left-hand menu, select Event Grid Trigger (eventGridEvent), then select Create Event Grid subscription.
+  
+  ![](media/E3T2.png)
 
 2. On the **Create Event Subscription** blade, specify the following configuration options:
 
@@ -807,9 +807,9 @@ In this task, you will add an Event Grid subscription to the SavePlateData funct
 
 Then select **Confirm Selection**.
    
- ![](media/15sa.png)
+ ![](media/EX3T201.png)
     
-13. Review all the values and select **Create**.
+3. Review all the values and select **Create**.
 
  ![](media/16sa.png)
 
