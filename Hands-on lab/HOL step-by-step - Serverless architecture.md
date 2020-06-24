@@ -129,7 +129,7 @@ In this exercise, you will provision a blob storage account using the Hot tier, 
 
 ### Task 1: Provision the storage account
 
-1. Using a new tab or instance of your browser, navigate to the Azure portal, <http://portal.azure.com>.
+1. Click on the Azure Portal application on your desktop or Click on any browser and search http://portal.azure.com, Go to the Lab Environment page to access your username and password. 
 
 2. Select **+ Create a resource**, then select **Storage**, **Storage account**.
 
@@ -770,7 +770,7 @@ In this task, you will create a new Node.js function triggered by Event Grid and
 
 8. On saving the code, logs window may appear. For now ignore the warning as we will work on it in next exercise.
 
-![](media/EX3T1.png)
+![](media/22sa.png)
 
 ### Task 2: Add an Event Grid subscription to the SavePlateData function
 
