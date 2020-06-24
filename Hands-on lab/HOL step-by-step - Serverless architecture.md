@@ -832,11 +832,9 @@ In this task, you will add an Azure Cosmos DB output binding to the SavePlateDat
        - Collection Name: **Processed**
        - Cosmos DB account connection: Click on **New** and select **Azure Cosmos DB Account**. Leave Database Account on default as it will be set on your Cosmos DB account and then select **OK**.
 
-![](media/19sa.png)
+![](media/EX3T203.png)
 
-4. Now select **OK** to finally add the output.
 
-![](media/20sa.png)
 
 ### Task 4: Create function to save manual verification info to Azure Cosmos DB
 
