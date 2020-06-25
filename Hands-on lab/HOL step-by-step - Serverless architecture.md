@@ -133,7 +133,7 @@ In this exercise, you will provision a blob storage account using the Hot tier, 
 
 2. Select **+ Create a resource**, then select **Storage**, **Storage account**.
 
-    ![In the menu pane of Azure Portal, Create a resource is selected. Under Azure Marketplace, Storage is selected, and under Featured, Storage account is selected.](media/new-storage-account.png 'Azure Portal')
+   ![](media/EX1T1.2.png) 
 
 3. On the **Create storage account** blade, specify the following configuration options:
 
